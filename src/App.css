@@ -1,0 +1,17 @@
+/* .students {
+  width: 300px;
+  border: 1px solid black;
+} */
+
+/* .d-prop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+.someCss {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
